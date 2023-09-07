@@ -52,7 +52,7 @@ scene.add(axisHelper);
 // mesh.scale.x = 2;
 // mesh.scale.y = 0.5;
 // mesh.scale.z = 0.5;
-// mesh.scale.set(2, 0.5, 0.5); 
+// mesh.scale.set(2, 0.5, 0.5);
 
 // Rotation (Euler rotation)
 // mesh.rotation.reorder("YXZ");
